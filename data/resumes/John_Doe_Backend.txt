@@ -1,0 +1,17 @@
+Name: John Doe
+Role: Backend Engineer
+Experience: 6 years
+
+Summary:
+Backend engineer with strong experience building scalable APIs and data-intensive systems.
+
+Skills:
+Python, FastAPI, Django, PostgreSQL, Docker, AWS, Redis
+
+Experience:
+- Built REST APIs using FastAPI serving 1M+ requests/day
+- Designed PostgreSQL schemas and optimized queries
+- Deployed services on AWS using Docker and ECS
+
+Education:
+B.Tech in Computer Science

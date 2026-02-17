@@ -1,0 +1,17 @@
+Name: Ananya Gupta
+Role: Head of Product Analytics
+Experience: 12 years
+
+Professional Summary:
+Analytics leader driving data-informed product decisions.
+
+Core Skills:
+SQL, Python, Experimentation, Metrics Design, Stakeholder Management
+
+Key Experience:
+- Defined north-star metrics for multiple products
+- Led analytics teams across geographies
+- Partnered with leadership on strategy
+
+Education:
+MBA, B.Tech

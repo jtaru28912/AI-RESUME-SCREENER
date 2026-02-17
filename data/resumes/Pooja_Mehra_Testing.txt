@@ -1,0 +1,16 @@
+Name: Pooja Mehra
+Role: QA Engineer
+Experience: 6 years
+
+Summary:
+QA engineer focused on automation testing.
+
+Skills:
+Python, Selenium, PyTest, API Testing
+
+Experience:
+- Built automated test frameworks
+- Performed API and regression testing
+
+Education:
+B.Tech in IT

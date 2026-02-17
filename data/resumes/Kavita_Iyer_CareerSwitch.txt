@@ -1,0 +1,16 @@
+Name: Kavita Iyer
+Role: Aspiring Backend Engineer
+Experience: 2 years (Non-tech background)
+
+Summary:
+Career switcher transitioning into backend development.
+
+Skills:
+Python, FastAPI, SQL, Git
+
+Experience:
+- Built personal projects in Python
+- Completed backend engineering bootcamp
+
+Education:
+MBA

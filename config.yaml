@@ -1,0 +1,27 @@
+paths:
+  resume_path: "data/resumes"
+  jd_path: "data/JobDescription"
+  output_path: "output"
+
+llm:
+  model: "gpt-4o-mini"
+  max_tokens: 1000
+
+project:
+  name: "Resume Screener "
+  version: "1.0.0"
+  author: "Taru Jain"
+  email: "jtaru28912@gmail.com"
+  run: "run_002"
+
+  description: "A tool to parse resumes and job descriptions using Lnagchain"
+  keywords: ["resume", "job description", "parser", "langchain"]
+ 
+prompt:
+  system: |
+    You are a senior recruitment executive.
+    Your task is to screen the given resume against the given job description.
+    Always give the output as per the given json schema.
+    You will need to parse the resume and job description and return the results.
+    The results should be in a JSON format.
+    

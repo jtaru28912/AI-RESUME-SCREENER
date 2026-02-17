@@ -1,0 +1,16 @@
+Name: Olivia Brown
+Role: Technical Writer
+Experience: 5 years
+
+Summary:
+Technical writer with engineering background.
+
+Skills:
+Documentation, Python (basic), APIs
+
+Experience:
+- Wrote developer documentation
+- Collaborated with engineering teams
+
+Education:
+B.A. English

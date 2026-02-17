@@ -1,0 +1,16 @@
+Name: Arjun Nair
+Role: Senior Backend Engineer
+Experience: 10 years
+
+Summary:
+Highly experienced backend engineer.
+
+Skills:
+Python, Django, FastAPI, PostgreSQL, AWS, System Design
+
+Experience:
+- Designed scalable backend systems
+- Mentored junior engineers
+
+Education:
+B.Tech in Computer Science

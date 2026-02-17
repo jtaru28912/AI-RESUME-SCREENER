@@ -1,0 +1,17 @@
+Name: Mohit Aggarwal
+Role: Senior Security Engineer
+Experience: 11 years
+
+Professional Summary:
+Security engineer specializing in application and cloud security.
+
+Core Skills:
+Python, Security Automation, Cloud Security, Threat Modeling, AWS
+
+Key Experience:
+- Built automated security scanning tools
+- Led incident response efforts
+- Designed secure architectures for cloud platforms
+
+Education:
+B.Tech in Information Security

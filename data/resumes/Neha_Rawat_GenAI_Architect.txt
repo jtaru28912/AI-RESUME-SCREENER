@@ -1,0 +1,18 @@
+Name: Neha Rawat
+Role: GenAI Solutions Architect
+Experience: 9 years
+
+Professional Summary:
+GenAI architect designing production-grade LLM applications with strong focus on reliability, evaluation, and governance.
+
+Core Skills:
+Python, OpenAI API, LangChain, Pydantic, RAG, Vector Databases, Prompt Engineering, FastAPI
+
+Key Experience:
+- Designed enterprise RAG systems over millions of documents
+- Implemented structured outputs with JSON schema and retries
+- Built prompt evaluation and versioning systems
+- Advised leadership on GenAI adoption strategy
+
+Education:
+M.Tech in Artificial Intelligence

@@ -1,0 +1,19 @@
+Name: Arjun Mehta
+Role: Principal Backend Engineer
+Experience: 14 years
+
+Professional Summary:
+Principal backend engineer with deep experience designing large-scale distributed systems, high-throughput APIs, and cloud-native platforms. Strong focus on system design, performance optimization, and mentoring senior engineers.
+
+Core Skills:
+Python, FastAPI, Django, AsyncIO, gRPC, PostgreSQL, DynamoDB, Redis, Kafka, AWS, Kubernetes, Terraform
+
+Key Experience:
+- Architected multi-tenant SaaS platform serving 50M+ requests/day
+- Led migration from monolith to microservices
+- Designed async event-driven pipelines using Kafka
+- Implemented cost-optimized AWS architectures (30% cost reduction)
+- Mentored 10+ senior engineers and led design reviews
+
+Education:
+B.Tech in Computer Science

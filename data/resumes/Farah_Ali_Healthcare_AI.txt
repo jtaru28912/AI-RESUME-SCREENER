@@ -1,0 +1,18 @@
+Name: Farah Ali
+Role: Healthcare AI Specialist
+Experience: 10 years
+
+Professional Summary:
+AI specialist working on NLP and ML solutions for healthcare and life sciences.
+
+Core Skills:
+Python, NLP, Transformers, Clinical NLP, OpenAI API, Text Mining
+
+Key Experience:
+- Built NLP pipelines for medical text analysis
+- Worked with clinical abstracts and research papers
+- Designed entity extraction and classification systems
+- Ensured regulatory and data compliance
+
+Education:
+PhD in Biomedical Informatics

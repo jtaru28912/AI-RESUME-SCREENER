@@ -1,0 +1,16 @@
+Name: Nitin Goyal
+Role: Software Engineering Intern
+Experience: 6 months
+
+Summary:
+Computer science student seeking entry-level role.
+
+Skills:
+Python, Data Structures, SQL
+
+Experience:
+- Academic projects in Python
+- Internship at startup
+
+Education:
+B.Tech (Final Year)

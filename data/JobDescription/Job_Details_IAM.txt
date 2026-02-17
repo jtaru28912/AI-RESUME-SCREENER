@@ -1,0 +1,36 @@
+Job Details
+Job Title: Java Developer – Identity and Access Management (IAM)
+Experience: 3-6 years
+Location: Mumbai
+Role Overview:
+We are looking for a Java Developer with hands-on experience in Identity and Access Management (IAM) to join our dynamic team. The ideal candidate should have strong Java development skills along with expertise in IAM solutions, authentication, authorization, and security protocols.
+Key Responsibilities:
+Develop, enhance, and maintain IAM solutions using Java and related technologies.
+
+Implement authentication & authorization frameworks (OAuth, SAML, OpenID Connect).
+
+Work with IAM tools such as ForgeRock, Okta, Ping Identity, SailPoint, or IBM Security Identity Manager.
+
+Integrate IAM systems with enterprise applications and services.
+
+Develop and consume RESTful APIs for IAM-related functionalities.
+
+Work with LDAP, Active Directory, and SSO solutions for user authentication.
+
+Handle role-based access control (RBAC), multi-factor authentication (MFA), and identity federation.
+
+Collaborate with cross-functional teams for security implementations and best practices.
+
+Troubleshoot IAM-related issues, conduct testing, and ensure compliance with security standards.
+
+Required Skills:
+ Java Development – Strong core Java, Spring Boot, and Hibernate skills.
+ IAM Expertise – Hands-on experience with IAM solutions like Okta, ForgeRock, Ping Identity, or SailPoint.
+ Security Protocols – Knowledge of OAuth 2.0, OpenID Connect, SAML, JWT, LDAP.
+ RESTful APIs – Experience in designing and consuming APIs.
+ Databases – SQL and NoSQL databases such as MySQL, PostgreSQL, or MongoDB.
+ Version Control – Familiarity with Git, Bitbucket, or similar tools.
+ CI/CD – Understanding of Jenkins, Docker, Kubernetes (preferred).
+Education & Certification:
+• Bachelor’s/Master’s degree in Computer Science, IT, or a related field.
+• IAM certifications (e.g., ForgeRock Certified, Okta Certified, or CISSP) preferred but not mandatory.

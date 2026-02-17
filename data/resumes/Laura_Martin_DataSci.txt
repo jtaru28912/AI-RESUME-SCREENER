@@ -1,0 +1,16 @@
+Name: Laura Martin
+Role: Data Scientist
+Experience: 6 years
+
+Summary:
+Data scientist working on predictive models.
+
+Skills:
+Python, Pandas, Scikit-learn, SQL, Statistics
+
+Experience:
+- Built predictive models
+- Communicated insights to stakeholders
+
+Education:
+M.Sc in Data Science

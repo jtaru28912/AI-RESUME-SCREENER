@@ -1,0 +1,16 @@
+Name: Fatima Khan
+Role: AI Engineer
+Experience: 4 years
+
+Summary:
+AI engineer with focus on NLP applications.
+
+Skills:
+Python, NLP, OpenAI API, Transformers
+
+Experience:
+- Built text classification systems
+- Worked on LLM-based summarization
+
+Education:
+M.Sc in AI

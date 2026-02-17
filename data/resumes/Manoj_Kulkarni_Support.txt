@@ -1,0 +1,16 @@
+Name: Manoj Kulkarni
+Role: Technical Support Engineer
+Experience: 7 years
+
+Summary:
+Support engineer handling customer issues.
+
+Skills:
+Python (basic), SQL, Troubleshooting
+
+Experience:
+- Resolved production issues
+- Worked with backend teams
+
+Education:
+B.Sc

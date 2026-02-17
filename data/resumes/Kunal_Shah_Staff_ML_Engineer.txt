@@ -1,0 +1,18 @@
+Name: Kunal Shah
+Role: Staff Machine Learning Engineer
+Experience: 12 years
+
+Professional Summary:
+Staff ML engineer with strong background in model lifecycle management, MLOps, and scalable inference systems.
+
+Core Skills:
+Python, PyTorch, TensorFlow, MLflow, Kubeflow, Docker, Kubernetes, AWS
+
+Key Experience:
+- Built end-to-end ML platforms supporting multiple teams
+- Designed model monitoring and drift detection pipelines
+- Optimized inference latency by 40%
+- Led MLOps best practices across org
+
+Education:
+M.Tech in Machine Learning

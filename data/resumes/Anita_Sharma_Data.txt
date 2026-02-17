@@ -1,0 +1,17 @@
+Name: Anita Sharma
+Role: Data Analyst
+Experience: 4 years
+
+Summary:
+Data analyst focused on business insights and reporting.
+
+Skills:
+Python, Pandas, SQL, Power BI, Excel
+
+Experience:
+- Built dashboards for sales and marketing teams
+- Automated reporting pipelines in Python
+- Performed ad-hoc data analysis
+
+Education:
+M.Sc in Statistics

@@ -1,0 +1,17 @@
+Name: Amit Patel
+Role: Junior Software Engineer
+Experience: 1.5 years
+
+Summary:
+Early-career developer with strong fundamentals.
+
+Skills:
+Python, Flask, SQL, Git
+
+Experience:
+- Developed CRUD applications
+- Fixed bugs and wrote unit tests
+- Assisted senior engineers
+
+Education:
+B.E in Information Technology

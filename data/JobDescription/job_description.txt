@@ -1,0 +1,36 @@
+Job Description: Senior GenAI Backend Engineer
+
+Role Overview
+We are looking for a Senior GenAI Backend Engineer to design, build, and scale production-grade AI-powered applications. The role requires strong backend engineering fundamentals combined with hands-on experience building LLM-based systems.
+
+Responsibilities
+- Design and develop backend services for GenAI applications using Python
+- Build and maintain REST APIs using FastAPI or similar frameworks
+- Design LLM-powered pipelines including RAG, agents, and structured output systems
+- Implement prompt templates, JSON schema–based outputs, and validation logic
+- Build reliable retry, fallback, and error-handling mechanisms for LLM failures
+- Optimize LLM usage for latency and cost
+- Collaborate with ML, data, and product teams to productionize GenAI solutions
+- Participate in architecture reviews and mentor junior engineers
+
+Required Skills
+- Strong proficiency in Python
+- Experience with FastAPI / Django
+- Hands-on experience with OpenAI APIs or similar LLM providers
+- Experience with prompt engineering and structured outputs
+- Familiarity with Pydantic or schema-based validation
+- Experience building scalable backend systems
+- Strong understanding of system design and API architecture
+
+Nice-to-Have Skills
+- Experience with RAG systems and vector databases
+- Familiarity with LangChain or similar orchestration frameworks
+- Experience with async programming (AsyncIO)
+- Cloud experience (AWS preferred)
+- Experience with Docker / Kubernetes
+- Exposure to LLM evaluation and monitoring
+
+Qualifications
+- Bachelor’s or Master’s degree in Computer Science or related field
+- 5+ years of backend or platform engineering experience
+- Experience working on production systems (GenAI experience preferred)

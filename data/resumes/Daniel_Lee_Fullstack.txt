@@ -1,0 +1,16 @@
+Name: Daniel Lee
+Role: Full Stack Engineer
+Experience: 5 years
+
+Summary:
+Full stack engineer working across frontend and backend.
+
+Skills:
+Python, FastAPI, React, PostgreSQL, Docker
+
+Experience:
+- Built full stack applications
+- Integrated REST APIs with frontend
+
+Education:
+B.Sc in Computer Science

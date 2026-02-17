@@ -1,0 +1,17 @@
+Name: Emily Roberts
+Role: Product Manager
+Experience: 7 years
+
+Summary:
+Product manager with technical background.
+
+Skills:
+Product Strategy, SQL, Python (basic), Analytics
+
+Experience:
+- Led roadmap planning
+- Worked with engineering teams
+- Defined KPIs and success metrics
+
+Education:
+MBA

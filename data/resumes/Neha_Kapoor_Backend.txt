@@ -1,0 +1,17 @@
+Name: Neha Kapoor
+Role: Backend Engineer
+Experience: 8 years
+
+Summary:
+Senior backend engineer with cloud and microservices experience.
+
+Skills:
+Python, FastAPI, Kafka, PostgreSQL, AWS, Kubernetes
+
+Experience:
+- Designed microservices architecture
+- Led backend team of 4 engineers
+- Implemented async processing pipelines
+
+Education:
+B.Tech in Computer Engineering
